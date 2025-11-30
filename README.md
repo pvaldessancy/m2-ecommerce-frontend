@@ -18,8 +18,8 @@ Interfaz web de una tienda e-commerce con navegación, listado de productos, det
 - Footer con información de la tienda
 
 ## Capturas
-![Home](assets/img/captura-home.png)
-![Detalle](assets/img/captura-detalle.png)
+![Home](assets/img/captura1.png)
+![Detalle](assets/img/captura2.png)
 
 ## Autor
 Paula Valdés Sancy - https://github.com/pvaldessancy
